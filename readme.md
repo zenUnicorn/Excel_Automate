@@ -1,4 +1,6 @@
+#Automate your excel SpreadSheet using python and perform repetitive borinng jobs in seconds
 import openpyxl as xl
+
 from openpyxl.chart import BarChart, Reference
 
 #processing thousands of spreadsheet
